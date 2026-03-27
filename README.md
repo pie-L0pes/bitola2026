@@ -13,7 +13,7 @@ A partir desses dados, o aplicativo calcula:
 * Bitola do fio em milímetros quadrados para tensão de 110V
 * Bitola do fio em milímetros quadrados para tensão de 220V
 
-O objetivo é auxiliar na escolha correta da bitola dos cabos elétricos, evitando erros em instalações.
+O objetivo é auxiliar na escolha correta da bitola dos cabos elétricos.
 
 ---
 
